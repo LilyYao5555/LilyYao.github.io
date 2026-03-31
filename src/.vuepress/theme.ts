@@ -6,14 +6,13 @@ import sidebar from "./sidebar.js";
 export default hopeTheme({
   hostname: "https://mister-hope.github.io",
 
-  author: {
-    name: "Mr.Hope",
-    url: "https://mister-hope.com",
+    author: {
+    name: "Ziying",
   },
 
-  logo: "https://theme-hope-assets.vuejs.press/logo.svg",
+  logo: "/avatar.jpg",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "ZiyingResearchNotes/ziyingresearchnotes.github.io",
 
   docsDir: "src",
 
@@ -29,7 +28,7 @@ export default hopeTheme({
 
   // 博客相关
   blog: {
-    description: "一个前端开发者",
+    description: "记录临床、科研与成长中的思考",
     intro: "/intro.html",
     medias: {
       Baidu: "https://example.com",
@@ -38,12 +37,12 @@ export default hopeTheme({
       Dingding: "https://example.com",
       Discord: "https://example.com",
       Dribbble: "https://example.com",
-      Email: "mailto:info@example.com",
+      Email: "https://mail.stu.scu.edu.cn/coremail/XT/index.jsp?sid=EApLieIhZkmarXOxWFkYASTKHIonLDpL#mail.welcome",
       Evernote: "https://example.com",
       Facebook: "https://example.com",
       Flipboard: "https://example.com",
       Gitee: "https://example.com",
-      GitHub: "https://example.com",
+      GitHub: "https://github.com/ZiyingResearchNotes/ziyingresearchnotes.github.io",
       Gitlab: "https://example.com",
       Gmail: "mailto:info@example.com",
       Instagram: "https://example.com",
