@@ -3,7 +3,6 @@ home: true
 layout: Blog
 icon: house
 title: 博客主页
-
 heroText: Ziying Research Notes
 tagline: 记录临床、科研与成长中的思考
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
@@ -30,10 +29,6 @@ projects:
   - name: 论文与项目
     desc: 已发表、在投及在研工作的整理与展示
     link: /research/
-
-  - name: Benny 的博客
-    desc: 静态博客搭建与技术记录
-    link: https://bennyhxy.github.io/benny-blog/
 
 footer: © Ziying Research Notes
 ---

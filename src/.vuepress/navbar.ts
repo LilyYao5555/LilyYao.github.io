@@ -2,51 +2,100 @@ import { navbar } from "vuepress-theme-hope";
 
 export default navbar([
   "/",
-  "/demo/",
   {
-    text: "博文",
-    icon: "pen-to-square",
-    prefix: "/posts/",
+    text: "关于我",
+    icon: "user",
+    link: "/intro/",
+  },
+  {
+    text: "研究笔记",
+    icon: "book-open",
+    prefix: "/notes/",
     children: [
       {
-        text: "苹果",
-        icon: "pen-to-square",
-        prefix: "apple/",
-        children: [
-          { text: "苹果1", icon: "pen-to-square", link: "1" },
-          { text: "苹果2", icon: "pen-to-square", link: "2" },
-          "3",
-          "4",
-        ],
+        text: "文献阅读",
+        icon: "book",
+        link: "literature/",
       },
       {
-        text: "香蕉",
-        icon: "pen-to-square",
-        prefix: "banana/",
-        children: [
-          {
-            text: "香蕉 1",
-            icon: "pen-to-square",
-            link: "1",
-          },
-          {
-            text: "香蕉 2",
-            icon: "pen-to-square",
-            link: "2",
-          },
-          "3",
-          "4",
-        ],
+        text: "Meta分析方法",
+        icon: "chart-line",
+        link: "meta-analysis/",
       },
-      { text: "樱桃", icon: "pen-to-square", link: "cherry" },
-      { text: "火龙果", icon: "pen-to-square", link: "dragonfruit" },
-      "tomato",
-      "strawberry",
+      {
+        text: "医学统计与R",
+        icon: "chart-column",
+        link: "statistics-r/",
+      },
+      {
+        text: "医学写作",
+        icon: "pen-to-square",
+        link: "medical-writing/",
+      },
+      {
+        text: "影像与研究设计",
+        icon: "microscope",
+        link: "imaging-research/",
+      },
     ],
   },
   {
-    text: "V2 文档",
-    icon: "book",
-    link: "https://theme-hope.vuejs.press/zh/",
+    text: "论文与项目",
+    icon: "flask",
+    prefix: "/research/",
+    children: [
+      {
+        text: "已发表论文",
+        icon: "file-lines",
+        link: "publications/",
+      },
+      {
+        text: "在投与在研",
+        icon: "hourglass-half",
+        link: "ongoing/",
+      },
+      {
+        text: "学术汇报",
+        icon: "person-chalkboard",
+        link: "presentations/",
+      },
+      {
+        text: "数据与图表",
+        icon: "chart-pie",
+        link: "figures-data/",
+      },
+    ],
+  },
+  {
+    text: "临床笔记",
+    icon: "stethoscope",
+    prefix: "/clinical/",
+    children: [
+      {
+        text: "病例思路",
+        icon: "notes-medical",
+        link: "cases/",
+      },
+      {
+        text: "MDT学习",
+        icon: "user-doctor",
+        link: "mdt/",
+      },
+      {
+        text: "指南与共识",
+        icon: "clipboard-list",
+        link: "guidelines/",
+      },
+      {
+        text: "外科基础",
+        icon: "syringe",
+        link: "surgery-basics/",
+      },
+    ],
+  },
+  {
+    text: "English",
+    icon: "language",
+    link: "/en/",
   },
 ]);
