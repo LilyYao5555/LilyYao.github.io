@@ -1,6 +1,12 @@
 ---
 title: Goal Mentor
-article: false
+  - 华西医院
+  - 胰腺外科
+  - 导师信息
+  - 论文整理
+  - 读研参考
+article: true
+
 ---
 
 # Goal Mentor
