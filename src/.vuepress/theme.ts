@@ -57,7 +57,22 @@ export default hopeTheme({
     tasklist: true,
     vPre: true,
   },
-
+encrypt: {
+  config: {
+    "/research/presentations/goal-mentor/Xingwang.html": {
+      hint: "导师生日",
+      password: "0917",
+    },
+  },
+ }, 
+  encrypt: {
+  config: {
+    "/research/presentations/goal-mentor/Fangma.html": {
+      hint: "与马芳老师通话日期",
+      password: "0408",
+    },
+  },
+},
   plugins: {
     blog: true,
     components: {
