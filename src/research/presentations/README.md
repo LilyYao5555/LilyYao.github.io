@@ -21,7 +21,7 @@ article: false
 这次会议交流基于我参与的胰腺癌相关系统综述与 Meta 分析研究。通过这次经历，我对如何将论文研究转化为会议壁报展示有了更直观的认识。
 
 **中华医学会临床流行病学和循证医学学术会议证明**
-<PDF url="ZiyingYao-.pdf"/>
+<PDF url="/assets/pdf/ZiyingYao-.pdf"/>
 
 ---
 
@@ -32,10 +32,10 @@ article: false
 
 该 poster 基于我参与的胰腺癌影像学脾血管受累相关研究，主要训练了我将完整研究凝练为会议壁报展示的学术表达能力。
 **Abstract接收证明**
-<PDF url="2026_epos_of_presentation_acceptance.pdf"/>
+<PDF url="assets/pdf/2026_epos_of_presentation_acceptance.pdf"/>
 
 **poster接收证明**
-<PDF url="2026_confirmation_of_poster_presentation.pdf"/>
+<PDF url="assests/pdf/2026_confirmation_of_poster_presentation.pdf"/>
 
 ## 意向老师整理
 - [Goal Mentor](./goal-mentor/)
