@@ -72,7 +72,7 @@ export default hopeTheme({
   plugins: {
     blog: true,
     components: {
-      components: ["Badge", "VPCard"],
+      components: ["Badge", "VPCard","PDF"],
     },
     icon: {
       prefix: "fa6-solid:",
