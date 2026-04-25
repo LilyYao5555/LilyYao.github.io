@@ -12,4 +12,4 @@ article: false
 
 - [NF-PNET增强CT指标与转移潜能研究](./eClinicalMedicine.md)
   
-- [远端胰腺切除术后胰瘘预防的系统综述与Meta分析](./Current Problems in Surgery.md)
+- [远端胰腺切除术后胰瘘预防的系统综述与Meta分析](./Current%20Problems%20in%20Surgery.md)
