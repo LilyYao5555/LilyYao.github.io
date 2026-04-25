@@ -32,10 +32,10 @@ article: false
 
 该 poster 基于我参与的胰腺癌影像学脾血管受累相关研究，主要训练了我将完整研究凝练为会议壁报展示的学术表达能力。
 **Abstract接收证明**
-<PDF url="assets/pdf/2026_epos_of_presentation_acceptance.pdf"/>
+<PDF url="/assets/pdf/2026_epos_of_presentation_acceptance.pdf"/>
 
 **poster接收证明**
-<PDF url="assests/pdf/2026_confirmation_of_poster_presentation.pdf"/>
+<PDF url="/assets/pdf/2026_confirmation_of_poster_presentation.pdf"/>
 
 ## 意向老师整理
 - [Goal Mentor](./goal-mentor/)
