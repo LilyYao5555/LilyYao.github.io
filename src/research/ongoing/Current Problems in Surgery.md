@@ -1,10 +1,10 @@
 ---
-title: 远端胰腺切除术后胰瘘预防的系统综述与Meta分析
+title: Are Compression-Only Strategies Sufficient to Prevent Clinically Relevant Pancreatic Fistula After Distal Pancreatectomy?
 icon: chart-line
+date: 2026-05-12
 category:
   - 科研项目
   - 系统综述与Meta分析
-
 tag:
   - 远端胰腺切除
   - 胰瘘
@@ -14,73 +14,44 @@ tag:
   - Meta分析
   - 循证医学
   - 大修返稿
+article: true
 ---
 
-# 远端胰腺切除术后胰瘘预防的系统综述与Meta分析
+## Ongoing Research
 
-## 项目简介
+### Are Compression-Only Strategies Sufficient to Prevent Clinically Relevant Pancreatic Fistula After Distal Pancreatectomy? A Systematic Review and Meta-analysis
 
-这是一项关于远端胰腺切除术后胰瘘预防策略的系统综述与 Meta 分析。
 
-本研究聚焦于 distal pancreatectomy 后胰腺残端处理方式，重点探讨单纯压闭策略是否足以降低临床相关术后胰瘘的发生风险。
+**Article type:** Systematic Review and Meta-analysis  
+**Status:** Major revision resubmitted  
+**Role:** Co-first author  
+**Period:** 2026.02–2026.06  
 
-## 研究题目
-
-**Are Compression-Only Strategies Sufficient to Prevent Clinically Relevant Pancreatic Fistula After Distal Pancreatectomy? A Systematic Review and Meta-analysis**
-
-## 研究类型
-
-Systematic Review and Meta-analysis
-
-## 当前状态
-
-Major revision resubmitted
-
-## 我的角色
-
-Co-first author
-
-## 项目时间
-
-2026.02–2026.06
-
-## 我的主要参与内容
+**My contributions:**
 
 - 数据整理与核对
-- 统计分析
+- 统计分析与敏感性分析
 - 森林图、漏斗图等图表制作
-- Methods 部分初稿撰写
-- Results 部分初稿撰写
-- 根据审稿意见参与结果呈现与文字修改
+- Methods 与 Results 部分初稿撰写
 
-## 研究关注的问题
 
-本研究主要围绕以下问题展开：
+这项研究关注远端胰腺切除术后临床相关术后胰瘘（CR-POPF）的预防问题，重点评估单纯按压策略是否足以降低胰瘘发生风险。
 
-1. 远端胰腺切除术后，单纯压闭策略能否有效预防临床相关术后胰瘘？
-2. 不同胰腺残端处理方式之间，术后胰瘘发生风险是否存在差异？
-3. 现有证据是否支持将 compression-only strategies 作为充分的预防策略？
-4. 当前研究证据中还存在哪些异质性和不确定性？
-
-## 项目收获
-
-这个项目让我进一步理解了系统综述与 Meta 分析在外科临床问题中的应用。
-
-相比单纯合并效应量，这类研究更重要的是准确界定临床问题，明确干预方式和结局指标，并在结果解释时充分考虑研究设计、纳入人群、手术方式、胰瘘定义和异质性来源。
-
-## 阶段性思考
-
-远端胰腺切除术后胰瘘是胰腺外科中非常重要的并发症之一。不同胰腺残端处理方式在临床中长期存在争议，而 Meta 分析可以帮助我们从已有研究中提炼更系统的证据。
-
-通过这个项目，我进一步体会到：一篇好的外科 Meta 分析不只是回答“有没有统计学差异”，更要回答这个差异是否具有临床意义，现有证据是否足够稳定，以及研究结论能否真正帮助临床决策。
-
-## 能力训练
-
-这个项目主要帮助我训练了以下能力：
-
-- 外科临床问题的循证转化
-- 文献筛选与数据提取
-- Meta 分析统计方法
-- 亚组分析与敏感性分析思维
-- 医学论文 Methods 和 Results 部分写作
-- 审稿意见回应与返修修改
+## Personal Reflection｜个人思考
+- 难点————分组与异质性
+  研究过程中纳入文献的按压策略都太不相同，我们先后整理出了好几种分组的排列组合  
+  并且分别进行了森林图和漏斗图的制作，有些Part甚至只有2篇文献，异质性也很多，很艰难
+![图1——分组表格](./f20b9526f72e64bcd2f57f4d08114a45.png)
+![图2——分组表格（续）](./794b48648a81f3e3082c31d3fd592ce4.png)
+- 研究新思路————手术本身
+  因为我之前的那篇文章还有一些同课题组的文章主要集中在**影像（尤其是增强CT）与PDAC或者PNETs**的预后上，而这次的Meta分析的重点完全在胰腺外科的手术实际中，术后的按压（按压方式、器具、时间长短）对**胰瘘（POPF）**发生（胰腺外科手术常见的术后并发症，及其影响生活质量）的影响。 
+  我才想起来：对哦，我是在胰腺外科的课题组！ 
+- 新的收获————3个软件的熟练使用
+我最初想参与进来帮忙做数据分析的原因其实是**对Meta分析图表制作的复盘**。  
+在我磕磕盼盼地完成了第一篇Meta分析之际，我想看看第二次弄是不是要轻车熟路一点，会不会很轻松。
+结果发现在数据分析上仍然有新的收获。  
+因为之前学Meta方法学部分，主要有RevMan Stata R三种分析软件，理论上第一个是傻瓜式操作，Stata基本够用，R更高级一些。所以我第一篇基本用的Stata，结果临了才发现Revman做的图更模板化标准化适合投稿，于是我把前两个软件是搞通了。  
+但是我这次还是想尝试用一下R，结果过程还是有许多磕磕盼盼，但是经过这次数据分析地磨练，我把Meta分析的软件都熟练应用过了。  
+- 个人思考————循序渐进，精进不休
+而且我之后的一篇Article的很多图也是用的R，所以也很感谢自己当时的这段经历。  
+也慢慢体会到科研是一个不断循序渐进，精进不休的过程！
